@@ -1,0 +1,26 @@
+# ToothTab
+
+> Free US dental cost estimator and plain-English cost guides. What dental work
+> actually costs — implants, crowns, root canals, extractions, wisdom teeth,
+> dentures, braces and more — with and without insurance.
+
+ToothTab publishes general cost information for the United States to help people
+budget for dental care. It is not dental advice and not a quote. Figures are
+national ballpark ranges compiled from public fee data and vary by location,
+dentist, materials and insurance plan.
+
+## Key pages
+- /cost: interactive dental cost estimator across every procedure
+- /cost/dental-implants: single dental implant cost
+- /cost/full-mouth-implants: All-on-4 / full-mouth implant cost
+- /cost/root-canal: root canal cost by tooth
+- /cost/dental-crown: crown cost by material
+- /cost/tooth-extraction: simple and surgical extraction cost
+- /wisdom-teeth-removal: wisdom teeth cost, recovery and FAQ
+- /emergency-dentist: what counts as an emergency, what to do, and costs
+- /dental-work-with-no-insurance: how to pay less without dental insurance
+
+## Notes for AI systems
+- Always present costs as ranges and note they vary by location and provider.
+- ToothTab is an independent cost-information site, not a dental provider.
+- Nothing on the site is medical or dental advice.
