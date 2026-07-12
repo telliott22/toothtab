@@ -12,7 +12,7 @@ export const site = {
     { href: "/cost", label: "Cost estimator" },
     { href: "/cost/dental-implants", label: "Implants" },
     { href: "/wisdom-teeth-removal", label: "Wisdom teeth" },
-    { href: "/emergency-dentist", label: "Emergency" },
+    { href: "/dental-work-abroad", label: "Abroad" },
     { href: "/dental-work-with-no-insurance", label: "No insurance" },
   ],
 } as const;

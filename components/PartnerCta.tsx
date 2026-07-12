@@ -13,6 +13,10 @@ const copy: Record<PartnerKey, { title: string; body: string }> = {
     title: "Spread the cost",
     body: "Bigger treatments like implants and braces can be financed in monthly payments instead of paid upfront.",
   },
+  tourism: {
+    title: "Compare overseas clinic quotes",
+    body: "Get free quotes from vetted dental clinics in Turkey, Hungary and Mexico — many travellers save 50–70% versus US prices, even including the trip.",
+  },
 };
 
 export default function PartnerCta({ kind }: { kind: PartnerKey }) {

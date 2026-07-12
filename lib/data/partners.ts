@@ -17,6 +17,11 @@ export const partners = {
     label: "See dental financing options",
     href: "https://www.example.com/dental-financing", // TODO: CareCredit / Sunbit affiliate link
   },
+  // Dental tourism — get quotes from vetted overseas clinics (high-value lead-gen).
+  tourism: {
+    label: "Get quotes from overseas dental clinics",
+    href: "https://www.example.com/dental-tourism-quotes", // TODO: Medical/dental tourism lead-gen affiliate
+  },
 } as const;
 
 export type PartnerKey = keyof typeof partners;

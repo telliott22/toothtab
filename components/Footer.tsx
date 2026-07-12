@@ -27,6 +27,7 @@ export default function Footer() {
               <div className="mb-2 font-semibold text-slate-800">Site</div>
               <ul className="space-y-1">
                 <li><Link href="/emergency-dentist" className="hover:text-teal-600">Emergency dentist</Link></li>
+                <li><Link href="/dental-work-abroad" className="hover:text-teal-600">Dental work abroad</Link></li>
                 <li><Link href="/dental-work-with-no-insurance" className="hover:text-teal-600">No insurance</Link></li>
                 <li><Link href="/about" className="hover:text-teal-600">About</Link></li>
                 <li><Link href="/privacy" className="hover:text-teal-600">Privacy</Link></li>
