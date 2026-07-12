@@ -3,7 +3,7 @@ import { site } from "@/lib/site";
 
 export const metadata = pageMeta({
   title: "Affiliate disclosure",
-  description: "How ToothTab earns money and how that affects what you read.",
+  description: "How DentalCostTab earns money and how that affects what you read.",
   path: "/affiliate-disclosure",
 });
 

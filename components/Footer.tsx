@@ -8,7 +8,7 @@ export default function Footer() {
         <div className="flex flex-col gap-8 sm:flex-row sm:justify-between">
           <div className="max-w-xs">
             <div className="font-display text-base font-bold text-slate-900">
-              Tooth<span className="text-teal-600">Tab</span>
+              DentalCost<span className="text-teal-600">Tab</span>
             </div>
             <p className="mt-2">{site.tagline}. Independent, plain-English cost information — so you can budget before you're in the chair.</p>
           </div>

@@ -87,7 +87,7 @@ export default function Emergency() {
       </div>
 
       <p className="mt-8 text-xs text-slate-400">
-        ToothTab provides general information, not medical or dental advice, and cannot diagnose or treat you. In an
+        DentalCostTab provides general information, not medical or dental advice, and cannot diagnose or treat you. In an
         emergency, contact a dentist, an emergency room, or 911.
       </p>
     </div>

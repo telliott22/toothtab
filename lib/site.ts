@@ -1,11 +1,11 @@
 // Single source of truth for site identity. Change the name/domain here only.
 export const site = {
-  name: "ToothTab",
-  domain: "toothtab.com",
-  url: "https://toothtab.com",
+  name: "DentalCostTab",
+  domain: "dentalcosttab.com",
+  url: "https://dentalcosttab.com",
   tagline: "What dental work really costs",
   description:
-    "ToothTab shows what dental work actually costs in the US — a plain-English cost estimator for implants, crowns, root canals, extractions and more, with and without insurance, plus how to pay when you don't have coverage.",
+    "DentalCostTab shows what dental work actually costs in the US — a plain-English cost estimator for implants, crowns, root canals, extractions and more, with and without insurance, plus how to pay when you don't have coverage.",
   locale: "en_US",
   twitter: "",
   nav: [

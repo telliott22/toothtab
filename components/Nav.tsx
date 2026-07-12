@@ -18,7 +18,7 @@ export default function Nav() {
         <Link href="/" className="flex items-center gap-2" aria-label={site.name}>
           <ToothMark />
           <span className="font-display text-lg font-bold tracking-tight text-slate-900">
-            Tooth<span className="text-teal-600">Tab</span>
+            DentalCost<span className="text-teal-600">Tab</span>
           </span>
         </Link>
         <nav className="flex items-center gap-0.5 text-sm sm:gap-3">

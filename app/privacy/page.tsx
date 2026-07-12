@@ -3,7 +3,7 @@ import { site } from "@/lib/site";
 
 export const metadata = pageMeta({
   title: "Privacy policy",
-  description: "How ToothTab handles data and analytics.",
+  description: "How DentalCostTab handles data and analytics.",
   path: "/privacy",
 });
 

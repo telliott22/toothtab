@@ -107,7 +107,7 @@ export default function Home() {
       </section>
 
       <p className="mx-auto mt-14 max-w-2xl text-center text-xs text-slate-400">
-        ToothTab publishes general cost information for the United States to help you budget and ask better
+        DentalCostTab publishes general cost information for the United States to help you budget and ask better
         questions. It is not dental advice and not a quote — your actual price depends on your dentist, location,
         materials and insurance.
       </p>

@@ -2,8 +2,8 @@ import { pageMeta } from "@/lib/seo";
 import { site } from "@/lib/site";
 
 export const metadata = pageMeta({
-  title: "About ToothTab",
-  description: "Why ToothTab exists and how we put our dental cost estimates together.",
+  title: "About DentalCostTab",
+  description: "Why DentalCostTab exists and how we put our dental cost estimates together.",
   path: "/about",
 });
 

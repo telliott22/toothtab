@@ -1,4 +1,4 @@
-# ToothTab — toothtab.com
+# DentalCostTab — dentalcosttab.com
 
 Free US dental **cost estimator** and plain-English cost guides. What dental work
 actually costs — implants, crowns, root canals, extractions, wisdom teeth, dentures,
