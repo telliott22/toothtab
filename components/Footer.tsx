@@ -35,6 +35,9 @@ export default function Footer() {
             </div>
           </div>
         </div>
+        <p className="mt-3 text-xs text-slate-400">
+          Part of the CostTab family: <a href="https://homecosttab.com" rel="noopener" className="hover:text-teal-600">HomeCostTab</a> · <a href="https://cosmeticcosttab.com" rel="noopener" className="hover:text-teal-600">CosmeticCostTab</a>
+        </p>
         <p className="mt-8 text-xs text-slate-400">
           © {new Date().getFullYear()} {site.name}. Costs shown are general US estimates compiled from public
           fee data and vary by location, dentist and materials — they are not quotes. Nothing on this site is
