@@ -12,6 +12,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "/emergency-dentist",
     "/dental-work-with-no-insurance",
     "/dental-work-abroad",
+    "/dental-implants-for-seniors",
     "/about",
     "/affiliate-disclosure",
     "/privacy",

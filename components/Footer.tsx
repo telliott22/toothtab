@@ -28,6 +28,7 @@ export default function Footer() {
               <ul className="space-y-1">
                 <li><Link href="/emergency-dentist" className="hover:text-teal-600">Emergency dentist</Link></li>
                 <li><Link href="/dental-work-abroad" className="hover:text-teal-600">Dental work abroad</Link></li>
+                <li><Link href="/dental-implants-for-seniors" className="hover:text-teal-600">Implants for seniors</Link></li>
                 <li><Link href="/dental-work-with-no-insurance" className="hover:text-teal-600">No insurance</Link></li>
                 <li><Link href="/about" className="hover:text-teal-600">About</Link></li>
                 <li><Link href="/privacy" className="hover:text-teal-600">Privacy</Link></li>
