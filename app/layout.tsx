@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Script from "next/script";
 import { Space_Grotesk, Inter } from "next/font/google";
 import { Analytics } from "@vercel/analytics/next";
 import "./globals.css";
@@ -21,6 +22,14 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="en" className={`${display.variable} ${body.variable}`}>
       <body className="font-sans">
+        {/* Google AdSense (auto ads + site verification) */}
+        <Script
+          id="adsense"
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6238064695745148"
+          crossOrigin="anonymous"
+          strategy="afterInteractive"
+        />
         <Nav />
         <main className="mx-auto max-w-5xl px-4 py-10">{children}</main>
         <Footer />
