@@ -80,7 +80,7 @@ export default function Abroad() {
 
       <div className="mt-8 flex flex-wrap gap-3">
         <Link href="/cost/dental-implants" className="rounded-lg border border-slate-300 px-4 py-2 text-sm font-semibold text-slate-700 hover:border-teal-500">US implant costs →</Link>
-        <Link href="/cost" className="rounded-lg border border-slate-300 px-4 py-2 text-sm font-semibold text-slate-700 hover:border-teal-500">Full cost estimator</Link>
+        <Link href="/cost" className="rounded-lg border border-slate-300 px-4 py-2 text-sm font-semibold text-slate-700 hover:border-teal-500">Full cost calculator</Link>
       </div>
 
       <p className="mt-8 text-xs text-slate-400">

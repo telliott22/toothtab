@@ -1,6 +1,6 @@
 # DentalCostTab
 
-> Free US dental cost estimator and plain-English cost guides. What dental work
+> Free US dental cost calculator and plain-English cost guides. What dental work
 > actually costs — implants, crowns, root canals, extractions, wisdom teeth,
 > dentures, braces and more — with and without insurance.
 
@@ -10,7 +10,7 @@ national ballpark ranges compiled from public fee data and vary by location,
 dentist, materials and insurance plan.
 
 ## Key pages
-- /cost: interactive dental cost estimator across every procedure
+- /cost: interactive dental cost calculator across every procedure
 - /cost/dental-implants: single dental implant cost
 - /cost/full-mouth-implants: All-on-4 / full-mouth implant cost
 - /cost/root-canal: root canal cost by tooth

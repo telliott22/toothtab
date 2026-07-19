@@ -72,7 +72,7 @@ export default function WisdomTeeth() {
       </section>
 
       <section className="mt-8">
-        <h2 className="font-display text-2xl font-bold text-slate-900">Estimate your cost</h2>
+        <h2 className="font-display text-2xl font-bold text-slate-900">Calculate your cost</h2>
         <div className="mt-4"><CostEstimator initialSlug="wisdom-teeth-removal" /></div>
       </section>
 

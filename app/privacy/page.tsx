@@ -17,9 +17,9 @@ export default function Privacy() {
         We use privacy-friendly, cookieless analytics to understand which pages are useful — measured in aggregate.
         We don't set advertising cookies of our own, we don't ask you to log in, and we don't sell personal data.
       </p>
-      <h2>The cost estimator</h2>
+      <h2>The cost calculator</h2>
       <p>
-        The estimator runs entirely in your browser. The procedure and insurance options you pick are not sent to us
+        The calculator runs entirely in your browser. The procedure and insurance options you pick are not sent to us
         or stored — there's no form to submit and no personal information required to use it.
       </p>
       <h2>Advertising & affiliate links</h2>

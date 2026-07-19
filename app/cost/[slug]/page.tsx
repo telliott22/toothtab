@@ -74,7 +74,7 @@ export default async function ProcedureCost({ params }: { params: Promise<{ slug
       <PartnerCta kind={FINANCE.has(p.slug) ? "financing" : "findDentist"} />
 
       <section className="mt-6">
-        <h2 className="font-display text-2xl font-bold text-slate-900">Estimate your cost</h2>
+        <h2 className="font-display text-2xl font-bold text-slate-900">Calculate your cost</h2>
         <p className="mt-1 text-slate-600">Adjust for insurance and compare with other procedures.</p>
         <div className="mt-4"><CostEstimator initialSlug={p.slug} /></div>
       </section>

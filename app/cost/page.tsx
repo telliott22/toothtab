@@ -6,9 +6,9 @@ import { pageMeta, itemListJsonLd } from "@/lib/seo";
 import { site } from "@/lib/site";
 
 export const metadata = pageMeta({
-  title: "Dental cost estimator — prices for every procedure",
+  title: "Dental cost calculator — prices for every procedure",
   description:
-    "A free dental cost estimator for the US. See the price range for implants, crowns, root canals, extractions, dentures, braces and more — with and without insurance.",
+    "A free dental cost calculator for the US. See the price range for implants, crowns, root canals, extractions, dentures, braces and more — with and without insurance.",
   path: "/cost",
 });
 
@@ -19,7 +19,7 @@ export default function CostHub() {
         categories.flatMap((c) => byCategory(c)).map((p) => ({ name: p.name, url: `${site.url}/cost/${p.slug}` })),
       )} />
 
-      <h1 className="font-display text-4xl font-extrabold text-slate-900">Dental cost estimator</h1>
+      <h1 className="font-display text-4xl font-extrabold text-slate-900">Dental cost calculator</h1>
       <p className="mt-3 max-w-2xl text-lg text-slate-600">
         Pick any procedure to see its US price range, then open the full guide for what drives the cost and how to
         pay less. Toggle insurance to see a typical out-of-pocket estimate.

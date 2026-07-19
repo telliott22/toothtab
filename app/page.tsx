@@ -6,7 +6,7 @@ import { site } from "@/lib/site";
 import { pageMeta } from "@/lib/seo";
 
 export const metadata = pageMeta({
-  title: "Dental cost estimator",
+  title: "Dental cost calculator",
   description: site.description,
   path: "/",
 });
